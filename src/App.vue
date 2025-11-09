@@ -12,7 +12,7 @@ import HelloWorld from "./components/HelloWorld.vue";
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-
+  <br />
   <button class="btn btn-primary">DaisyUI Button</button>
 </template>
 
