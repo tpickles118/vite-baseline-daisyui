@@ -1,8 +1,22 @@
 {
     "name": "vite-baseline-daisyui",
     "private": true,
-    "version": "0.0.0",
+    "version": "1.0.0",
     "type": "module",
+    "description": "A production-ready Vue 3 + Vite baseline template with DaisyUI, Tailwind CSS, Vue Router, Axios, ESLint, and Prettier pre-configured",
+    "keywords": [
+        "vue3",
+        "vite",
+        "template",
+        "baseline",
+        "daisyui",
+        "tailwindcss",
+        "vue-router",
+        "axios",
+        "eslint",
+        "prettier",
+        "starter-template"
+    ],
     "scripts": {
         "dev": "vite",
         "build": "vite build",
